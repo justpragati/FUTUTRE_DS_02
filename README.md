@@ -1,4 +1,4 @@
-# FUTURE_DS_02 - E-Commerce Data Analysis
+# FUTURE_DS_01 - E-Commerce Data Analysis
 
 ## 🔹 Task
 Analyze e-commerce data to identify best-selling products, sales trends, and high-revenue categories using **Power BI**.
